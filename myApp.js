@@ -3,7 +3,7 @@ var app = express();
 var bGround = require('fcc-express-bground');
 
 
-bgGround.log("Hello World")
+bGround.log("Hello World")
 console.log("Hello World");
 
 
